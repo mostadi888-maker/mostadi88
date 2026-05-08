@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="title">#0D1B3E</color>
+    <color name="subtitle">#546E7A</color>
+    <color name="icon">#111111</color>
+    <color name="dot_active">#00C853</color>
+    <color name="dot_inactive">#CFD8DC</color>
+    <color name="primary">#1A237E</color>
+    <color name="primary_variant">#000051</color>
+    <color name="accent">#2979FF</color>
+    <color name="surface">#F5F7FA</color>
+    <color name="ic_launcher_background">#0D1B3E</color>
+</resources>
